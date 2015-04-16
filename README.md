@@ -1,0 +1,1 @@
+# SLAX - A webhook interface to post a message to a slack channel.
